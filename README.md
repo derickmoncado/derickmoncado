@@ -7,11 +7,11 @@ Senior Front End Developer
 Hola 👋 I'm Derick, I build clean, usable, and accessible websites and web applications. I come from a background in Design and have been working professionally as a developer for over 10 years. I am currently on the Experience Optimization team within Demonware at Activision Blizzard in Southern California.
 
 * 🌍  I'm based in Los Angeles, CA
-* 🖥️  See my portfolio at [personal site](http://derickmoncado.io)
+* 🖥️  Be sure to check out my [personal site](http://derickmoncado.io)
 * ✉️  You can contact me at [derickmoncado@gmail.com](mailto:derickmoncado@gmail.com)
-* 🚀  I'm currently working on [my next video here](http://www.youtube.com/@derickmoncado)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Video Content
+* 🚀  Currently working on [my next video here](http://www.youtube.com/@derickmoncado)
+* 🧠  Focusing heavily on JavaScript
+* 🤝  Open to collaborating on video content!
 
 ### Skills
 
