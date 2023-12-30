@@ -8,7 +8,7 @@ Hola 👋 I'm Derick, I build clean, usable, and accessible websites and web app
 
 * 🌍  I'm based in Los Angeles, CA
 * 🖥️  Be sure to check out my [personal site](http://derickmoncado.io)
-* ✉️  You can contact me at [derickmoncado@gmail.com](mailto:derickmoncado@gmail.com)
+* ✉️  You can contact me at [hello@derickmoncado.io](mailto:hello@derickmoncado.io)
 * 🚀  Currently working on [my next video here](http://www.youtube.com/@derickmoncado)
 * 🧠  Focusing heavily on JavaScript
 * 🤝  Open to collaborating on video content!
