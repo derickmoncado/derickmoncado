@@ -1,7 +1,7 @@
 Hi 👋 My name is Derick Moncádo
 ===============================
 
-Senior Front End Developer
+Senior Front End Developer @ Activision
 --------------------------
 
 Hola 👋 I'm Derick, I build clean, usable, and accessible websites and web applications. I come from a background in Design and have been working professionally as a developer for over 10 years. I am currently on the Experience Optimization team within Demonware at Activision Blizzard in Southern California.
