@@ -1,4 +1,4 @@
-Hi 👋 My name is Derick Moncádo
+Hi 👋 My name is Derick Moncado
 ===============================
 
 Senior Front End Developer @ Activision
