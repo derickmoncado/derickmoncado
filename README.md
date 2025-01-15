@@ -21,4 +21,6 @@ Hola 👋 I'm Derick, I build clean, usable, and accessible websites and web app
 
 </ul>
 
+---
+
 <a href="https://app.daily.dev/derickmoncado"><img src="https://api.daily.dev/devcards/v2/zJKIlyvM3RcnohZhsfezQ.png?type=wide&r=6np" width="652" alt="Derick Moncado's Dev Card"/></a>
